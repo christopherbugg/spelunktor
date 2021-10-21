@@ -1,5 +1,5 @@
 # Overview
-spleunkTor is a Hidden Service spider designed to find base onion links for another tool, unhidden (a tool for discovering the true IP of hidden services). The point of have a custom-built spider instead of using an off-the-shelf variant (scapy, etc) is to have the freedom not offered by those other solutions and build one tailored to our specific use.
+spleunkTor is an [Onion Services](https://community.torproject.org/onion-services/) spider designed to find base onion links for another tool, unhidden (a tool for discovering the true IP of onion services). The point of have a custom-built spider instead of using an off-the-shelf variant (scapy, etc) is to have the freedom not offered by those other solutions and build one tailored to our specific use.
 
 One of the biggest freedoms we have is to avoid limiting our search to well-constructed HTML and finding ANY (v3) .onion links anywhere.
 
